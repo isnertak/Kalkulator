@@ -1,0 +1,74 @@
+#submitBtn:hover{
+  background-color: rgb(204, 204, 204);
+  opacity: 0.7;
+}
+#submitBtn{
+  width: 185px;
+  height: 31px;
+  background-color: rgb(182, 181, 181);
+  font-size: 13px;
+  border-radius: 5px;
+  border-color: rgb(42, 42, 42);
+  border-style: solid;
+  Cursor:pointer;
+
+}
+#aLabel{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#bLabel{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#aTextBox{
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+#bTextBox{
+  font-size: 15px;
+  margin-top: 5px;
+}
+#cLabel{
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 400px;
+}
+#submitBt:hover{
+  background-color: rgb(204, 204, 204);
+  opacity: 0.7;
+}
+#submitBt{
+  width: 185px;
+  height: 31px;
+  background-color: rgb(182, 181, 181);
+  font-size: 13px;
+  border-radius: 5px;
+  border-color: rgb(42, 42, 42);
+  border-style: solid;
+  Cursor:pointer;
+
+}
+#aLabe{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#bLabe{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#aTextBo{
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+#bTextBo{
+  font-size: 15px;
+  margin-top: 5px;
+}
+#cLabe{
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 400px;
+}
